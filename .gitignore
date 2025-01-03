@@ -1,0 +1,9 @@
+##folders
+.vs/
+Debug/
+x64/
+
+##files
+**/*.vcxproj
+**/*.vcxproj.*
+*.sln
