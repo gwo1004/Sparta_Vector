@@ -28,7 +28,7 @@ int main() {
 	std::cout << "----------------------------------------------" << std::endl;
 
 	std::cout << "----------------------------------------------" << std::endl;
-	SimpleVector<int> pVec3 = *pVec; // 이상없음
+	SimpleVector<int> pVec3 = *pVec;
 	std::cout << "----------------------------------------------" << std::endl;
 
 
